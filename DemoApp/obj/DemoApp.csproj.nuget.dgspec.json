@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\demoapp\\DemoApp.csproj": {}
+    "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\Demoapp\\DemoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\demoapp\\DemoApp.csproj": {
+    "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\Demoapp\\DemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\demoapp\\DemoApp.csproj",
+        "projectUniqueName": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\Demoapp\\DemoApp.csproj",
         "projectName": "DemoApp",
-        "projectPath": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\demoapp\\DemoApp.csproj",
+        "projectPath": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\Demoapp\\DemoApp.csproj",
         "packagesPath": "C:\\Users\\errab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\demoapp\\obj\\",
+        "outputPath": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\Demoapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\errab\\AppData\\Roaming\\NuGet\\NuGet.Config"

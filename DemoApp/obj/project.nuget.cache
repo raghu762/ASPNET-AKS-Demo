@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D64eBrqeAH0=",
+  "dgSpecHash": "LwtFYp98C54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\demoapp\\DemoApp.csproj",
+  "projectFilePath": "C:\\Users\\errab\\Desktop\\Bharath.net\\ASPNET-AKS-Demo\\Demoapp\\DemoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\errab\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
     "C:\\Users\\errab\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
